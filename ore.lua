@@ -1,23 +1,8 @@
 -- ore
 -- Author: @kitmenke
 --
--- Processes ores
+-- Used in SkyFactory to process ores. Probably not really useful for anything else.
 -- 
--- Depends on https://github.com/seriallos/computercraft
---
-----------------------------
--- SETUP
-----------------------------
---
--- Setup:
--- pastebin get 55tqszpw bootstrap
--- bootstrap
--- gist get 4a9d5375bae862685366 ore
---
-----------------------------
--- USAGE
-----------------------------
--- TODO
 
 local tArgs = {...}
 local bDebug = false

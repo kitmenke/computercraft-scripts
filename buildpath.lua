@@ -1,3 +1,5 @@
+-- buildPath <length>
+-- TODO: Not used anymore?
 local bDebug = false
 local selectedSlot=1
 local abort = false

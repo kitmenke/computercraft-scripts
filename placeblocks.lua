@@ -8,16 +8,6 @@
 -- to hammer the blocks which are placed by the turtle.
 --
 ----------------------------
--- SETUP
-----------------------------
---
--- Place the file in your computercraft programs directory:
--- ..\ATLauncher\Instances\SkyFactory\saves\YourSaveGame\computer\0\placeblocks.lua
---
--- Note: 
--- YourSaveGame is the name of your save game
--- "0" is the ID of your Turtle
-----------------------------
 -- VARIABLES
 ----------------------------
 local tArgs = {...}
